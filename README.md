@@ -1,4 +1,4 @@
-# AIE Internal Repository Template
+# AIE Repository Template
 
 This is a template repository containing some boilerplate documentation. Just
 create a copy of this repository when you've got something new to share and
