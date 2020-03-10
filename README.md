@@ -22,7 +22,7 @@ you should definitely add some detail here!
 
 ## License
 
-MIT License - Copyright (c) 2019 Academy of Interactive Entertainment
+MIT License - Copyright (c) 2020 Academy of Interactive Entertainment
 
 For more information, see the [license][lic] file.
 
